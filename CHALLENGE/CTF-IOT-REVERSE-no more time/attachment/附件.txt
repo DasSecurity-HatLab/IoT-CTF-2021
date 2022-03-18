@@ -1,0 +1,10 @@
+这题直接输出falg。AVR时钟F_CPU存在下面逻辑：
+for(;;){
+	if(!PD2){
+		F_CPU-=10000;
+	}
+	else{
+		F_CPU=F_CPU;
+	}
+}
+
