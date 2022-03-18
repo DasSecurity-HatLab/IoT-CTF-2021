@@ -22,7 +22,7 @@
 │   ├── README.md
 │   └── attachment
 │       ├── diagnosis.hsqs
-│		├── diagnosis_source.zip
+│       ├── diagnosis_source.zip
 │       └── diagnosis.hsqs.sign
 ├── CTF-IOT-PWN-many
 │   ├── README.md
